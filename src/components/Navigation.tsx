@@ -42,14 +42,6 @@ const Navigation = () => {
                 {item.name}
               </Link>
             ))}
-            <a
-              href="https://avadyne.eu"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-gradient-to-r from-purple-500 to-blue-500 text-white px-4 py-2 rounded-md text-sm font-medium hover:shadow-lg transition-all duration-200"
-            >
-              Visit avadyne.eu
-            </a>
           </div>
 
           {/* Mobile menu button */}
@@ -80,14 +72,6 @@ const Navigation = () => {
                 {item.name}
               </Link>
             ))}
-            <a
-              href="https://avadyne.eu"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="block bg-gradient-to-r from-purple-500 to-blue-500 text-white px-3 py-2 rounded-md text-sm font-medium hover:shadow-lg transition-all duration-200 w-fit"
-            >
-              Visit avadyne.eu
-            </a>
           </div>
         )}
       </div>
