@@ -1,4 +1,3 @@
-
 import { Link } from "react-router-dom";
 import { ArrowRight, Code, Cloud, Shield, Users, Zap, TestTube, Rocket, Brain, Building } from "lucide-react";
 
@@ -43,9 +42,9 @@ const Index = () => {
         <div className="max-w-7xl mx-auto">
           <div className="text-center opacity-0 animate-fade-in">
             <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-              High-Impact
+              Tech x
               <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
-                {" "}Tech Solutions
+                {" "}Transformation
               </span>
             </h1>
             <p className="text-xl sm:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
@@ -119,7 +118,7 @@ const Index = () => {
               Global Presence, Local Excellence
             </h2>
             <p className="text-lg text-gray-300 mb-6 max-w-2xl mx-auto">
-              Headquartered in Tallinn, Estonia, Europe with our delivery center in India. We combine European quality standards with cost-effective global talent to deliver exceptional results.
+              Headquartered in Tallinn, Estonia, Europe with our delivery center in India. We combine European standards with cost-effective global talent to deliver exceptional results.
             </p>
             <div className="grid sm:grid-cols-2 gap-4 text-left max-w-2xl mx-auto">
               <div className="bg-white/5 rounded-lg p-4">

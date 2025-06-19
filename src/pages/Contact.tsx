@@ -82,7 +82,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-semibold">Email</h3>
-                  <p className="text-gray-300">hello@avadyne.eu</p>
+                  <p className="text-gray-300">contact@avadyne.eu</p>
                 </div>
               </div>
 
@@ -92,7 +92,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-semibold">Phone</h3>
-                  <p className="text-gray-300">+31 (0) 20 123 4567</p>
+                  <p className="text-gray-300">+372 55595080</p>
                 </div>
               </div>
 
@@ -102,7 +102,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-semibold">Location</h3>
-                  <p className="text-gray-300">Netherlands & India</p>
+                  <p className="text-gray-300">Estonia & India</p>
                 </div>
               </div>
             </div>
@@ -110,7 +110,7 @@ const Contact = () => {
             <div className="bg-gradient-to-r from-purple-500/10 to-blue-500/10 backdrop-blur-sm border border-white/10 rounded-xl p-6">
               <h3 className="text-white font-semibold mb-2">Why Choose Avadyne?</h3>
               <ul className="space-y-2 text-gray-300 text-sm">
-                <li>• European quality standards with cost-effective offshore teams</li>
+                <li>• European standards with cost-effective offshore teams</li>
                 <li>• End-to-end technology solutions from planning to deployment</li>
                 <li>• Proven track record with modern tech stacks and methodologies</li>
                 <li>• 24/7 support and transparent communication</li>
