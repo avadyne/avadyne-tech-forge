@@ -20,12 +20,11 @@ const Navigation = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link to="/" className="flex items-center">
-            <img 
-              src="/lovable-uploads/6cd98d92-f954-4ff0-8765-24021dc0e00f.png" 
-              alt="Avadyne - Tech x Transformation" 
-              className="h-8 w-auto"
-            />
+          <Link to="/" className="flex items-center space-x-2">
+            <div className="w-8 h-8 bg-gradient-to-r from-purple-500 to-blue-500 rounded-lg flex items-center justify-center">
+              <span className="text-white font-bold text-sm">A</span>
+            </div>
+            <span className="text-white text-xl font-bold">Avadyne</span>
           </Link>
 
           {/* Desktop Navigation */}
